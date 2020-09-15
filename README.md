@@ -1,6 +1,6 @@
 ### Hi there I'm Jakub :punch:
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinekdIn&message=%20&color=blue&logo=linkedin&style=flat-square&logoColor=white)](https://https://www.linkedin.com/in/jakub-otr%C4%99ba-028715185//)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinekdIn&message=%20&color=blue&logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/jakub-otr%C4%99ba-028715185//)
 [![Contact](https://img.shields.io/static/v1?label=Contact&message=%20&color=green&logo=gmail&style=flat-square&logoColor=white)](mailto:jakub.otreba1@gmail.com)
   
   
