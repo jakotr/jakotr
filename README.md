@@ -1,6 +1,3 @@
-<!--
-**jakotr/jakotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there I'm Jakub :punch:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinekdIn&message=%20&color=blue&logo=linkedin&style=flat-square&logoColor=white)](https://https://www.linkedin.com/in/jakub-otr%C4%99ba-028715185//)
