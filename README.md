@@ -7,6 +7,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
+- :office: &nbsp; 2+ years of commercial experience as FrontEnd Developer.
 - :mortar_board: &nbsp; Engineer degree in Computer Science.
 - :muscle: &nbsp; Sports enthusiast.
 - :game_die: &nbsp; Fan of board games.
@@ -14,6 +15,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | Sass/Scss
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React.js | Redux | Vue | CakePhp | Sass/Scss 
 - 🔧 &nbsp; Git
-- :computer: Working on: &nbsp;  Node.js | Angular | Express.js | MongoDB
+- :computer: Working on: &nbsp;  Node.js | Angular | Express.js | MongoDB | React Native | Unit tests
